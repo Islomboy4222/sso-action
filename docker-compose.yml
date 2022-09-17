@@ -47,3 +47,4 @@ services:
       - 8220:80
     environment:
       - PMA_ARBITRARY=1
+
